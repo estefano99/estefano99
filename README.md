@@ -15,7 +15,7 @@
 
 A ** FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 **About Me!**
 
